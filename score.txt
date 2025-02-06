@@ -1,0 +1,4 @@
+amal,80,70,60
+athira,70,75,80
+abhiraj,60,70,40
+mallika,50,80,70

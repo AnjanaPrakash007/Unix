@@ -1,0 +1,5 @@
+Sachin,India,500
+Danish,Pakisthan,450
+Sourav,India,500
+Steve,Australia,480
+Rikkie,WestIndies,430

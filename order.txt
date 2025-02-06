@@ -1,0 +1,7 @@
+cat
+mat
+goat
+tea
+dinner
+hello
+pickle
